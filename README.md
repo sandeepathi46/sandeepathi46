@@ -1,15 +1,32 @@
-<h1 align="center"> Sandeep Athi</h1>
+<h1 align="center">Hi 👋, Sandeep Athi</h1>
 <h3 align="center">Aspiring DevOps Engineer | Python Developer | Automation Enthusiast</h3>
 
 ---
 
 ### 💡 About Me
+🚀 I'm a passionate **DevOps Engineer** on a mission to automate everything and scale cloud infrastructures efficiently.
 
 - 👨‍💻 I’m currently learning **DevOps tools** like Docker, Jenkins, GitHub Actions
 - 🚀 Practicing real-world projects from beginner to advanced level
 - 🧠 Exploring **Kubernetes** and **CI/CD pipelines**
 - 🔭 Working on Python-based DevOps automation
 - 📫 Reach me at: [LinkedIn](https://linkedin.com) (Update this link!)
+
+---
+
+### 💼 What I Do
+
+- 🧠 **Cloud & DevOps Specialist**
+  - Architecting scalable infrastructures
+  - AWS, Kubernetes expert
+
+- ⚙️ **Automation Enthusiast**
+  - CI/CD pipelines
+  - Infrastructure as Code (IaC)
+
+- ✍️ **Content Creator**
+  - Technical blogs, DevOps tutorials
+  - Open-source contributor
 
 ---
 

@@ -15,7 +15,7 @@
   <!-- You can add an image pattern here for the photo if embedding -->
 
   <!-- Text: Name and Role -->
-  <text x="460" y="90" font-family="Montserrat, Arial" font-weight="bold" font-size="30" fill="white">Sandeep</text>
+  <text x="460" y="90" font-family="Montserrat, Arial" font-weight="bold" font-size="30" fill="white">SANDEEP</text>
   <text x="460" y="130" font-family="Montserrat, Arial" font-size="18" fill="white" letter-spacing="5" >CLOUD & DEVOPS ENGINEER</text>
 </svg>
 

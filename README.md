@@ -1,6 +1,23 @@
 <h1 align="center">Hi 👋, I Am Sandeep Athi</h1>
 <h3 align="center">Aspiring DevOps Engineer | Python Developer | Automation Enthusiast</h3>
-<img width="1563" height="391" alt="image" src="https://github.com/user-attachments/assets/0cf03d16-8e37-4c5e-a0dd-3abdaff41fab" />
+<svg width="1000" height="200" xmlns="http://www.w3.org/2000/svg">
+  <rect width="100%" height="100%" fill="#3f51b5"/> <!-- Background -->
+
+  <!-- Geometric shapes -->
+  <rect x="50" y="60" width="80" height="80" fill="#9c27b0" stroke="black" stroke-width="2"/>
+  <circle cx="900" cy="140" r="60" fill="#ff5722" stroke="black" stroke-width="2"/>
+  <polygon points="200,150 240,100 280,150" fill="#ffc107" stroke="black" stroke-width="1"/>
+  <circle cx="850" cy="40" r="30" fill="#ff4081"/>
+  <!-- Add more shapes as you like -->
+
+  <!-- Profile circle -->
+  <circle cx="400" cy="100" r="40" fill="#ffc107"/>
+  <!-- You can add an image pattern here for the photo if embedding -->
+
+  <!-- Text: Name and Role -->
+  <text x="460" y="90" font-family="Montserrat, Arial" font-weight="bold" font-size="30" fill="white">HARSHHAA</text>
+  <text x="460" y="130" font-family="Montserrat, Arial" font-size="18" fill="white" letter-spacing="5" >CLOUD & DEVOPS ENGINEER</text>
+</svg>
 
 ---
 

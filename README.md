@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I Am Sandeep Athi</h1>
 <h3 align="center">Aspiring DevOps Engineer | Python Developer | Automation Enthusiast</h3>
+<img width="1563" height="391" alt="image" src="https://github.com/user-attachments/assets/0cf03d16-8e37-4c5e-a0dd-3abdaff41fab" />
 
 ---
 

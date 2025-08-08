@@ -61,7 +61,7 @@
 
 ### 📌 Featured Projects
 
-- 🔗 [Netflix Clone (TypeScript)](https://github.com/sandeepathi46/Netflix)
+- 🔗 [Netflix Clone (TypeScript)](https://github.com/sandeepathi46/Netflix-Clone.git))
 - 🔗 [DevOps Real World Projects](https://github.com/sandeepathi46/DevOps-Projects-New)
 - 🔗 [Banking App (Python)](https://github.com/sandeepathi46/Banking-)
 - 🔗 [3-Tier-Web-Application-Deployment-on-AWS](https://github.com/sandeepathi46/3-Tier-Web-Application-Deployment-on-AWS))

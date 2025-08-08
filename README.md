@@ -66,6 +66,7 @@
 - 🔗 [Banking App (Python)](https://github.com/sandeepathi46/Banking-)
 - 🔗 [3-Tier-Web-Application-Deployment-on-AWS](https://github.com/sandeepathi46/3-Tier-Web-Application-Deployment-on-AWS)
 - 🔗 [Voice Based email system](https://github.com/sandeepathi46/Voice-Based-Email-System)
+- 🔗 [Manage-Spotify-using-Terraform](https://github.com/sandeepathi46/Manage-SPOTIFY-using-TERRAFORM)
 ---
 
 ### 📊 GitHub Stats

@@ -61,10 +61,10 @@
 
 ### 📌 Featured Projects
 
-- 🔗 [Netflix Clone (TypeScript)](https://github.com/sandeepathi46/Netflix-Clone.git))
-- 🔗 [DevOps Real World Projects](https://github.com/sandeepathi46/DevOps-Projects-New)
+- 🔗 [Netflix Clone (TypeScript)](https://github.com/sandeepathi46/Netflix-Clone.git)
+- 🔗 [Static-website-hosting-in-the-s3-bukcet-Aws](https://github.com/sandeepathi46/static-website-hosting-in-the-s3-bucket-Aws)
 - 🔗 [Banking App (Python)](https://github.com/sandeepathi46/Banking-)
-- 🔗 [3-Tier-Web-Application-Deployment-on-AWS](https://github.com/sandeepathi46/3-Tier-Web-Application-Deployment-on-AWS))
+- 🔗 [3-Tier-Web-Application-Deployment-on-AWS](https://github.com/sandeepathi46/3-Tier-Web-Application-Deployment-on-AWS)
 - 🔗 [Voice Based email system](https://github.com/sandeepathi46/Voice-Based-Email-System)
 ---
 

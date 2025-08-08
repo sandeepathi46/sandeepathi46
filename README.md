@@ -64,7 +64,7 @@
 - 🔗 [Netflix Clone (TypeScript)](https://github.com/sandeepathi46/Netflix)
 - 🔗 [DevOps Real World Projects](https://github.com/sandeepathi46/DevOps-Projects-New)
 - 🔗 [Banking App (Python)](https://github.com/sandeepathi46/Banking-)
-- 🔗 [Jenkins with Python](https://github.com/sandeepathi46/Python-Project)
+- 🔗 [3-Tier-Web-Application-Deployment-on-AWS](https://github.com/sandeepathi46/3-Tier-Web-Application-Deployment-on-AWS))
 - 🔗 [Voice Based email system](https://github.com/sandeepathi46/Voice-Based-Email-System)
 ---
 
